@@ -1,4 +1,4 @@
-## Inbuilt  investigation of Spatial and Spectral features of Hyperspectral Image Classification through CONVLSTM2D.
+## Inbuilt investigation of Spatial and Spectral features of Hyperspectral Image Classification through Convlstm2D.
 
 # Illustration
 To extract spatial and spectral features from the Hyperspectral image we are implementing a CONVLSTM2D model, so that we get the advantage of both the models like Long Short Term Memory (LSTM) and Convolution (CNN) at a same point of time.
