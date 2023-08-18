@@ -26,4 +26,16 @@ We got four different types of hyperspectral datasets namely Indian Pines, Pavia
 from the site: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes  
 These data sets are also stored in the folder name dataset.
 
+# Cite following papers:
+1. Banerjee, Anasua, and Debajyoty Banik. "Pooled hybrid-spectral for hyperspectral image classification." Multimedia Tools and Applications 82.7 (2023): 10887-10899.
+
+2. Banerjee, Anasua, and Debajyoty Banik. "Resnet-2D-ConvLSTM: A Means to Extract Features from Hyperspectral Image." International Conference on Neural Information Processing. Singapore: Springer Nature Singapore, 2022.
+
+3. Banerjee, Anasua, and Debajyoty Banik. "Resnet Based Hybrid Convolution LSTM for Hyperspectral Image Classification" Multimedia Tools and Applications (2023).
+
+
+
+
+
+
 
